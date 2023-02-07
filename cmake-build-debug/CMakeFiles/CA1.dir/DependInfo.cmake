@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/LENOVO/CLionProjects/CPPCA1/main.cpp" "CMakeFiles/CA1.dir/main.cpp.obj" "gcc" "CMakeFiles/CA1.dir/main.cpp.obj.d"
-  "C:/Users/LENOVO/CLionProjects/CPPCA1/string.cpp" "CMakeFiles/CA1.dir/string.cpp.obj" "gcc" "CMakeFiles/CA1.dir/string.cpp.obj.d"
+  "G:/C++/CPPCA1/main.cpp" "CMakeFiles/CA1.dir/main.cpp.obj" "gcc" "CMakeFiles/CA1.dir/main.cpp.obj.d"
+  "G:/C++/CPPCA1/string.cpp" "CMakeFiles/CA1.dir/string.cpp.obj" "gcc" "CMakeFiles/CA1.dir/string.cpp.obj.d"
   )
 
 # Targets to which this target links.

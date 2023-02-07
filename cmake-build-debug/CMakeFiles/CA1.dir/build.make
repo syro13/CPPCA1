@@ -43,19 +43,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f
+RM = "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\LENOVO\CLionProjects\CPPCA1
+CMAKE_SOURCE_DIR = G:\C++\CPPCA1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug
+CMAKE_BINARY_DIR = G:\C++\CPPCA1\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CA1.dir/depend.make
@@ -69,32 +69,32 @@ include CMakeFiles/CA1.dir/progress.make
 include CMakeFiles/CA1.dir/flags.make
 
 CMakeFiles/CA1.dir/main.cpp.obj: CMakeFiles/CA1.dir/flags.make
-CMakeFiles/CA1.dir/main.cpp.obj: C:/Users/LENOVO/CLionProjects/CPPCA1/main.cpp
+CMakeFiles/CA1.dir/main.cpp.obj: G:/C++/CPPCA1/main.cpp
 CMakeFiles/CA1.dir/main.cpp.obj: CMakeFiles/CA1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CA1.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CA1.dir/main.cpp.obj -MF CMakeFiles\CA1.dir\main.cpp.obj.d -o CMakeFiles\CA1.dir\main.cpp.obj -c C:\Users\LENOVO\CLionProjects\CPPCA1\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CA1.dir/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CA1.dir/main.cpp.obj -MF CMakeFiles\CA1.dir\main.cpp.obj.d -o CMakeFiles\CA1.dir\main.cpp.obj -c G:\C++\CPPCA1\main.cpp
 
 CMakeFiles/CA1.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CA1.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\LENOVO\CLionProjects\CPPCA1\main.cpp > CMakeFiles\CA1.dir\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++\CPPCA1\main.cpp > CMakeFiles\CA1.dir\main.cpp.i
 
 CMakeFiles/CA1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CA1.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LENOVO\CLionProjects\CPPCA1\main.cpp -o CMakeFiles\CA1.dir\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++\CPPCA1\main.cpp -o CMakeFiles\CA1.dir\main.cpp.s
 
 CMakeFiles/CA1.dir/string.cpp.obj: CMakeFiles/CA1.dir/flags.make
-CMakeFiles/CA1.dir/string.cpp.obj: C:/Users/LENOVO/CLionProjects/CPPCA1/string.cpp
+CMakeFiles/CA1.dir/string.cpp.obj: G:/C++/CPPCA1/string.cpp
 CMakeFiles/CA1.dir/string.cpp.obj: CMakeFiles/CA1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CA1.dir/string.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CA1.dir/string.cpp.obj -MF CMakeFiles\CA1.dir\string.cpp.obj.d -o CMakeFiles\CA1.dir\string.cpp.obj -c C:\Users\LENOVO\CLionProjects\CPPCA1\string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=G:\C++\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CA1.dir/string.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CA1.dir/string.cpp.obj -MF CMakeFiles\CA1.dir\string.cpp.obj.d -o CMakeFiles\CA1.dir\string.cpp.obj -c G:\C++\CPPCA1\string.cpp
 
 CMakeFiles/CA1.dir/string.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CA1.dir/string.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\LENOVO\CLionProjects\CPPCA1\string.cpp > CMakeFiles\CA1.dir\string.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E G:\C++\CPPCA1\string.cpp > CMakeFiles\CA1.dir\string.cpp.i
 
 CMakeFiles/CA1.dir/string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CA1.dir/string.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\LENOVO\CLionProjects\CPPCA1\string.cpp -o CMakeFiles\CA1.dir\string.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S G:\C++\CPPCA1\string.cpp -o CMakeFiles\CA1.dir\string.cpp.s
 
 # Object files for target CA1
 CA1_OBJECTS = \
@@ -110,7 +110,7 @@ CA1.exe: CMakeFiles/CA1.dir/build.make
 CA1.exe: CMakeFiles/CA1.dir/linklibs.rsp
 CA1.exe: CMakeFiles/CA1.dir/objects1.rsp
 CA1.exe: CMakeFiles/CA1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CA1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=G:\C++\CPPCA1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable CA1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CA1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -122,6 +122,6 @@ CMakeFiles/CA1.dir/clean:
 .PHONY : CMakeFiles/CA1.dir/clean
 
 CMakeFiles/CA1.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\LENOVO\CLionProjects\CPPCA1 C:\Users\LENOVO\CLionProjects\CPPCA1 C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug C:\Users\LENOVO\CLionProjects\CPPCA1\cmake-build-debug\CMakeFiles\CA1.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" G:\C++\CPPCA1 G:\C++\CPPCA1 G:\C++\CPPCA1\cmake-build-debug G:\C++\CPPCA1\cmake-build-debug G:\C++\CPPCA1\cmake-build-debug\CMakeFiles\CA1.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CA1.dir/depend
 
